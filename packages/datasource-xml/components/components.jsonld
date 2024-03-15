@@ -1,0 +1,9 @@
+{
+  "@context": "https://linkedsoftwaredependencies.org/bundles/npm/@ldf/datasource-xml/^3.0.0/components/context.jsonld",
+  "@id": "npmd:@ldf/datasource-xml",
+  "@type": "Module",
+  "requireName": "@ldf/datasource-xml",
+  "import": [
+    "files-ldfdn:components/Datasource/XML.jsonld",
+  ]
+}
